@@ -1,6 +1,6 @@
 {
-  "name": "@restlessbit/tsconfig",
-  "version": "1.0.1",
+  "name": "@realplatanopapi/tsconfig",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "tsconfig.json"
 }

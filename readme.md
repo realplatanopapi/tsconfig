@@ -1,15 +1,15 @@
-# @restlessbit/tsconfig
+# @realplatanopapi/tsconfig
 
 Resuable tsconfig for TypeScript projects.
 
 ## Install
 
 ```bash
-yarn add @restlessbit/tsconfig -D
+yarn add @realplatanopapi/tsconfig -D
 
 # or
 
-npm install @restlessbit/tsconfig -D
+npm install @realplatanopapi/tsconfig -D
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ npm install @restlessbit/tsconfig -D
 ```javascript
 // tsconfig.json
 {
-  "extends": "@restlessbit/tsconfig",
+  "extends": "@realplatanopapi/tsconfig",
   "compilerOptions": {
     "jsx": "preserve"
   },
